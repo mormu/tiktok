@@ -10,6 +10,7 @@ namespace EasyTiktok;
 /**
  * @method static MiniProgram\Application  miniProgram(array $config)
  * @method static OpenPlatform\Application  openPlatform(array $config)
+ * @method static Payment\Application  Payment(array $config)
  */
 class Application {
     /**
